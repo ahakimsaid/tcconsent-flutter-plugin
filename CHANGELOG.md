@@ -1,3 +1,10 @@
+## 1.5.5
+
+- This is a test release 
+- Upgraded libraries
+- Testing new scripts
+- Update changelogs
+
 ## 1.2.3
 
 * adding TCConsentAPI class
