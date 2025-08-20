@@ -1,10 +1,9 @@
-## 1.2.5
+## 1.5.5
 
-* Android dependencies points to fixed version
-
-## 1.2.4
-
-* adding saveIOSConsentOnPrivacyCenterDropDown property on TCConsent
+- This is a test release 
+- Upgraded libraries
+- Testing new scripts
+- Update changelogs
 
 ## 1.2.3
 
